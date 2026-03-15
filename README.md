@@ -1,5 +1,7 @@
 # NovaChain Hub
-![NovaChain Hub Cover](novachainhub.png)
+<a href="https://novachainhub.com" target="_blank">
+  <img src="novachainhub.png" alt="NovaChain Hub Cover">
+</a>
 
 Welcome to **NovaChain Hub's Official GitHub Profile.**
 
